@@ -1,6 +1,6 @@
 {
-    "name": "@knight-lab/timelinejs",
-    "version": "3.8.17",
+    "name": "@mehrandvm/timelinejs",
+    "version": "1.0.0",
     "license": "MPL-2.0",
     "description": "TimelineJS v3: A Storytelling Timeline built in JavaScript, made by Northwestern University Knight Lab.",
     "dependencies": {
@@ -36,7 +36,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/NUKnightLab/TimelineJS3.git"
+        "url": "git+https://github.com/mehrandvm/TimelineJS3.git"
     },
     "keywords": [],
     "author": "Northwestern University Knight Lab",
